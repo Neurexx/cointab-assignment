@@ -15,10 +15,16 @@ ollama serve
 ```bash
 git clone https://github.com/Neurexx/cointab-assignment.git
 cd cointab-assignment
+```
+## Frontend
+```bash
 cd cointab
 npm i
 npm run dev
-cd ../cointab-backend
+```
+## Backend
+```bash
+cd cointab-backend
 npm i
 npm run dev
 ```
