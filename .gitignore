@@ -1,0 +1,7 @@
+cointab-backend/node_modules
+cointab-backend/.env
+
+
+cointab/node_modules
+cointab/.next/
+cointab/.env
